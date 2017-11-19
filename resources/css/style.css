@@ -4,9 +4,9 @@ html {
 }
 
 header {
-  font-size: 18px;
   color: white;
-  background-image: url('file:///C:/CodeAcademy/GitHub%20Pages/Broadway/resources/images/the-flatiron-building.png');
+  background-image: url('../images/the-flatiron-building.png');
+  background-size: cover;
 }
 
 h1, h2, h3 {
@@ -18,9 +18,32 @@ h1 {
 }
 
 a {
+  font-size: 18px;
   color: white;
 }
 
 h2 {
   font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
+
+.newyork {
+  background-image: url('../images/the-flatiron-building.png');
+  color: white;
+}
+
+footer {
+  text-align: left;
+  background-color: dimgray;
+}
+
+.copyright {
+  font-size: 11px;
 }
