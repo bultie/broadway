@@ -1,0 +1,26 @@
+html {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+header {
+  font-size: 18px;
+  color: white;
+  background-image: url('file:///C:/CodeAcademy/GitHub%20Pages/Broadway/resources/images/the-flatiron-building.png');
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+a {
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+}
